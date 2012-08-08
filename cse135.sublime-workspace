@@ -315,13 +315,25 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "sensationalism/index.html",
+			"settings":
+			{
+				"buffer_size": 1272,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 242.0,
+		"height": 58.0,
 		"selected_items":
 		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
 			[
 				":w",
 				":w - Save"
@@ -353,10 +365,6 @@
 			[
 				":d",
 				"Set Syntax: D"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			]
 		],
 		"width": 528.0
@@ -376,6 +384,7 @@
 	},
 	"file_history":
 	[
+		"/X/Google Drive/CSE135/.gitignore",
 		"/X/Google Drive/CS134B/HW4/js/script.js",
 		"/X/Google Drive/CS134B/HW3/js/script.js",
 		"/X/Google Drive/CS134B/HW3/js/lib/jquery-ui.min.js",
@@ -627,8 +636,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "sensationalism/index.html",
+					"settings":
+					{
+						"buffer_size": 1272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1005,
+								1005
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		},
 		{
@@ -685,6 +723,14 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"index",
+				"sensationalism/index.html"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
 			[
 				"sty",
 				"css/style.css"
