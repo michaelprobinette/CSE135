@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Sensationalist</title>
+<meta name="description" content="">
+
+<!-- CSS -->
+<link rel="icon" type="image/x-icon" href="img/favicon.ico">
+<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/bootstrap-responsive.css">
+<link rel="stylesheet" href="bootstrap-responsive.min.css">
+<link rel="stylesheet" href="css/meny.css">
+
+<!-- JS --> 
+
+<script src="js/bootstrap.js"></script>
+<script src="js/bootstrap.min.js"></script> 
+
+</head>
+
+<body>
+
+	<div class="navbar navbar-fixed-top">
+		<div class="navbar-inner">
+		  <div class="container">
+			<a class="brand" href="index.html"><img id="nav_logo" src="img/default_icon.png"  alt="logo" height=25px/> The Sensationalist </a>
+			<ul class="nav">
+					<li><a href="index.html">Front Page</a></li>
+					<li class=""><a href="#">Liberal Wackjobs</a></li>
+					<li class=""><a href="#">Conservative Swine</a></li>
+					<li class=""><a href="#">Independent Hipsters</a></li>					
+			</ul>
+			<ul class="nav pull-right">
+				<li class="active"><a href="about.html">About</a></li>
+			</ul>
+		  </div>
+		</div>
+	</div>
+
+<div class="meny">
+	<br><br><br> 
+	<h2>Click any of the links below!</h2>
+	<ul>
+			<li class="btn"><a href="index.html">Front Page</a></li>
+			<li><a href="#">example link</a></li>
+			<li><a href="#">example link</a></li>
+			<li><a href="#">example link</a></li>
+			<li><a href="#">example link</a></li>
+			<li><a href="#">example link</a></li>
+			<li><a href="#">example link</a></li>
+			<li><a href="about.html">About</a></li>
+</div>
+
+	<!-- Arrow that appears from the left when menu is collapsed -->
+	<div class="meny-arrow">&#x25BA;</div>
+	<div class="meny-contents">
+		<div class="cover"></div>
+
+	<div class="container">
+		<div class="row">
+			<br><hr class="soften">
+  
+	<div class="span8">
+		<h1>Impact</h1>
+		<p> Media experts speculate that the coming of The Sensationalist marks the beginning of the end for modern media. Many are calling
+		it "the best thing they've ever seen" and as chaos ransacks the nation in wake of individuals simply abandoning interest in
+		all other facets of media, we show our smug smiles. Upon going live, FOX news, MSNBC, The Onion, and several others have already declared backrupcy in anticipation
+		of the coming storm.</p> 
+	</div>
+	<div class="span3"><img src="img/icon_big.png" height=130px/> 
+	</div>
+
+
+	
+	<div class="span12">
+		<h1>Origins</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+		exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+		Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+	</div>
+	
+	<br>
+	<br>
+	<br>
+	<hr class="soften"> 
+	
+	<div class="span12">
+	<h1 align="center">Meet the team</h1>
+	<hr class="soften">
+	</div>
+	
+
+	<div class="span3">
+		<h2> Michael Robinette </h2>
+		<p> Michael supports free range crops and is against the proliferation of Riot Games Inc. into the computer labs. He enjoys playing
+		video games in which he is placed into a sandbox and told he is having "fun" and is quite skilled at the gramming of pros. </p>
+	</div>
+
+	 <div class="span3">
+		 <h2> Jonathan Lin </h2>
+		 <p>Jonathan is sometimes referred to as "The Batman" but doing so is not advised. Prepare yourself to be smote. Protoss is a poorly
+		 designed race.</p> 
+	</div>
+		
+	<div class="span3"> 
+		<h2> Jason Sandoval </h2>
+		<p> Well yer darn tootin' this her youngin' is spy'er'en a horse on a hill near a house by the ol' mine if ye catch my meaning. He 'aint 
+		got a lick o' sense in that darn head o' his but I'll be damned if he ain't one o' the nicest fellers y'all're likely to e'er come across.
+		He's always sayin all kindsa crazy things, like 'is words gets took out o' the cookin' box or something. </p>
+	</div>
+		<div class="span3">
+		<h2> Ugo Umeh </h2>
+		<p> Four time Olympic level table tennis player Ugo Umeh has decided to lend a helping hand to these backwater folk in an attempt to salvage
+		their dumb project. </h2>
+		</div> 
+
+		</div>
+	</div>
+	</div>
+</div>
+
+<!-- meny script HAS TO BE AT THE BOTTOM -->
+<script src="js/meny.js"></script>
+<script>
+
+	if( window.location.search.length && window.location.search.match( /^\?(http|www)/gi ) ) {
+		var contents = document.querySelector( '.meny-contents' );
+		contents.style.padding = '0px';
+		contents.innerHTML = '<div class="cover"></div><iframe src="'+ window.location.search.slice( 1 ) +'" style="width: 100%; height: 100%; border: 0; position: absolute;"></iframe>';
+	}
+
+</script>
+
+</body>
+</html>
