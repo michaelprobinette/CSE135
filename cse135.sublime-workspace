@@ -1,0 +1,749 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"le",
+				"length"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"off",
+				"offsetY"
+			],
+			[
+				"ex",
+				"extraOffset"
+			],
+			[
+				"edi",
+				"editState"
+			],
+			[
+				"add",
+				"addElementToPad"
+			],
+			[
+				"ele",
+				"element"
+			],
+			[
+				"move",
+				"move"
+			],
+			[
+				"change",
+				"changeElement"
+			],
+			[
+				"this",
+				"thisClick"
+			],
+			[
+				"elementto",
+				"elementToMove"
+			],
+			[
+				"chan",
+				"changeElement"
+			],
+			[
+				"element",
+				"elementToAdd"
+			],
+			[
+				"rece",
+				"setRecentFlag"
+			],
+			[
+				"pre",
+				"prepEle"
+			],
+			[
+				"elemen",
+				"elementToAdd"
+			],
+			[
+				"sear",
+				"searchResults"
+			],
+			[
+				"elem",
+				"element1"
+			],
+			[
+				"search",
+				"searchResults"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"updat",
+				"updatePallet"
+			],
+			[
+				"upda",
+				"updatePallet"
+			],
+			[
+				"defa",
+				"defaultSize"
+			],
+			[
+				"data",
+				"data-category"
+			],
+			[
+				"pop",
+				"populateSearch"
+			],
+			[
+				"key",
+				"keywords"
+			],
+			[
+				"append",
+				"appendTo"
+			],
+			[
+				"searc",
+				"searchResults"
+			],
+			[
+				"sea",
+				"searchResults"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"currentE",
+				"currentElement"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"appe",
+				"appendTo"
+			],
+			[
+				"tar",
+				"target"
+			],
+			[
+				"bind",
+				"bindLibElements"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"al",
+				"altContainer"
+			],
+			[
+				"sel",
+				"selected"
+			],
+			[
+				"up",
+				"updateSize"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"cur",
+				"currentPos"
+			],
+			[
+				"curre",
+				"currentX"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"def",
+				"defaultWidth"
+			],
+			[
+				"newEleC",
+				"newEleChild"
+			],
+			[
+				"newE",
+				"newEleChild"
+			],
+			[
+				"uie",
+				"uielement1"
+			],
+			[
+				"uiele",
+				"uielement"
+			],
+			[
+				"recen",
+				"recentlyUsed"
+			],
+			[
+				"conta",
+				"containment"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"po",
+				"padding-top"
+			],
+			[
+				"contain",
+				"container"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"dragg",
+				"draggable"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"Canva",
+				"Canvas_Element"
+			],
+			[
+				"remove",
+				"removeAllElements"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"dr",
+				"drawOnActiveCanvas"
+			],
+			[
+				"new",
+				"newEle"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"act",
+				"activeCanvas"
+			],
+			[
+				"Can",
+				"Canvas_Element"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fea",
+				"feature_list_wrapper"
+			],
+			[
+				"ali",
+				"vertical-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"feat",
+				"feature_list"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				":we",
+				":w - Save"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				":java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				":d",
+				"Set Syntax: D"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/X/Google Drive/CS134B/HW4/js/script.js",
+		"/X/Google Drive/CS134B/HW3/js/script.js",
+		"/X/Google Drive/CS134B/HW3/js/lib/jquery-ui.min.js",
+		"/X/Google Drive/CS134B/HW3/css/style.css",
+		"/X/Google Drive/CS134B/HW4/index.html",
+		"/X/Google Drive/CS134B/HW3/index.html",
+		"/X/Users/Caper/Downloads/VMware.vSphere.v5-ZWTiSO/zwtiso.nfo",
+		"/X/Google Drive/CS134B/HW3/fa/font-awesome.css",
+		"/X/Google Drive/CS134B/MERGE/HW3/js/script.js",
+		"/X/Users/Caper/Downloads/jquery-easy-editable-text-fields/js/easy-editable-text.js",
+		"/X/Google Drive/CS134B/HW3/js/lib/jquery.editable-1.3.3.min.js",
+		"/X/Users/Caper/Downloads/jquery-easy-editable-text-fields/index.php",
+		"/X/Google Drive/CS134B/MERGE/HW3/index.html",
+		"/C/Users/Caper/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/X/Google Drive/CS134B/cse134b-hw2-ec666ee/14/js/script.js",
+		"/X/Google Drive/CS134B/cse134b-hw2-ec666ee/14/css/style.css",
+		"/X/Google Drive/CS134B/framebox.js",
+		"/X/Google Drive/CS134B/cse134b-hw2-ec666ee/14/index.html",
+		"/X/Google Drive/CS134B/cse134b-hw2-ec666ee/14/js/qtip/jquery.qtip.min.js",
+		"/X/Google Drive/CS134B/HW2/HW2/javascripts/app.js",
+		"/X/Google Drive/CS134B/HW2/HW2/javascripts/jquery.reveal.js",
+		"/X/Google Drive/CS134B/HW2/HW2/stylesheets/app.css",
+		"/X/Google Drive/CS134B/HW2/HW2/javascripts/jquery-ui.css",
+		"/X/Google Drive/CS134B/HW2/HW2/javascripts/jquery-ui.min.js",
+		"/X/Google Drive/CS134B/HW2/HW2/index.html",
+		"/X/Google Drive/CS134B/HW2/HW2/stylesheets/foundation.css",
+		"/X/Google Drive/CS134B/HW2/HW2/javascripts/jquery.customforms.js",
+		"/X/Google Drive/CS134B/HW2/HW2/javascripts/jquery.orbit-1.4.0.js",
+		"/X/Google Drive/CS134B/HW2/HW2/javascripts/jquery.tooltips.js",
+		"/C/Users/Caper/AppData/Roaming/Sublime Text 2/Packages/User/uibtn.sublime-snippet",
+		"/C/Users/Caper/AppData/Roaming/Sublime Text 2/Packages/User/uielement.sublime-snippet",
+		"/C/Users/Caper/AppData/Roaming/Sublime Text 2/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/Caper/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Caper/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/X/Google Drive/CS134B/project.htm",
+		"/X/Google Drive/CS134B/proposal.htm",
+		"/X/Users/Caper/Downloads/Atarathi PRE TBC/start.bat",
+		"/G/Program Files (x86)/GearPlayer/_GP4HASP.dat",
+		"/X/Users/Caper/Documents/modem unlocker.html",
+		"/X/Program Files (x86)/World of Warcraft 1.12/realmlist.wtf",
+		"/C/Users/Caper/AppData/Roaming/CyberLink/Power2Go/7.0/Temp/VMWARE-ESX-BASE-README",
+		"/X/Program Files (x86)/VMware/VMware vSphere CLI/bin/vihostupdate.pl",
+		"/I/Users/michaelrobinette/Library/Application Support/Skype/vandolis/chatmsg2048.dbb",
+		"/I/Users/michaelrobinette/Documents/Stack.ss",
+		"/I/Users/michaelrobinette/Documents/workspace/ASCII_Art.cpp",
+		"/I/Users/michaelrobinette/Documents/count.ss",
+		"/I/Users/michaelrobinette/Documents/factorial.ss",
+		"/I/Users/michaelrobinette/Documents/workspace/Door Test/main.cpp",
+		"/I/Users/michaelrobinette/Documents/School/XCode/Pokemonz/Monster.cpp",
+		"/I/Users/michaelrobinette/Documents/School/XCode/Pokemonz/main.cpp",
+		"/I/Users/michaelrobinette/Documents/School/XCode/Pokemonz/items.txt",
+		"/X/Users/Caper/Downloads/imdb/actors.list",
+		"/X/Users/Caper/Downloads/actresses.list",
+		"/X/Users/Caper/Downloads/movies.list",
+		"/I/Users/michaelrobinette/Documents/iChats/2009-10-16/Katie White on 2009-10-16 at 20.17.ichat"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console.log",
+			"editable",
+			"eidtable",
+			"libDummyContainer",
+			"draggable",
+			"element1",
+			"libDummyText",
+			"libDummyContainer",
+			"draggab",
+			".dragg",
+			"libDummyText",
+			"libDummyContainer",
+			"libim",
+			"libDummyContainer",
+			"place",
+			"click",
+			"addElementToPad",
+			"changeElement",
+			"addElementToPad",
+			"changeElement",
+			"place",
+			"prep",
+			"currentElement",
+			"addElementToPad",
+			"offset",
+			"changeElement",
+			"updatePallet",
+			"changeElement",
+			"updatePallet",
+			"change",
+			"changeElement",
+			"addElementToPad",
+			"offsetX",
+			"addElementToPad",
+			"drop",
+			"updatePallet",
+			"place",
+			"changeElement",
+			"place",
+			"editable",
+			"libBrowserUrlBox",
+			"currentElement",
+			"changeElement",
+			"place",
+			"updatePallet",
+			"movestate",
+			"elementToAdd",
+			"currentElement",
+			"movestate",
+			"ignoreClick",
+			"currentElement",
+			"changeCurr",
+			"changeCurrentElement",
+			"updatePallet",
+			"elementToMove",
+			"currentElement",
+			"libDraggable",
+			"changeElement",
+			"currentElement",
+			"elementToMove",
+			"console.log",
+			"elementToMove",
+			"change",
+			"click",
+			"console.log",
+			"searchResults",
+			"elementToAdd",
+			"setRecentFlag",
+			"elementToAdd",
+			"setRecentFlag",
+			"pad",
+			"currentElement",
+			"prevSearch",
+			"searchForm",
+			"populateSearch",
+			"change",
+			"pal",
+			"p",
+			"pal",
+			"pallet",
+			"searchResults",
+			"addTopSearch",
+			"setRecentFlag",
+			"console.log",
+			"setRecentFlag",
+			"show",
+			"searchTerm",
+			"searchResults",
+			"recentlyUsed",
+			"searchResults",
+			"populateSearch",
+			"z-index:",
+			"z-index: a",
+			"z-index:au",
+			"searchre",
+			"z-index",
+			"ui-dragg",
+			"searchRe",
+			"sear",
+			"link",
+			"<!DOCTYPE html>\n<html>\n<head>\n	<meta charset=\"UTF-8\">\n	<meta name = \"viewport\" content = \"user-scalable = no\">\n	<title>Wireframe 3000&#8482;</title>\n	<link rel=\"stylesheet\" type=\"text/css\" href=\"css/style.css\" />\n	<link rel=\"stylesheet\" href=\"fa/font-awesome.css\" type=\"text/css\" />\n	<!--[if IE 7]>\n	  <link rel=\"stylesheet\" href=\"fa/font-awesome-ie7.css\">\n	<![endif]-->\n	<!--[if lt IE 9]>\n	  <script src=\"http://html5shim.googlecode.com/svn/trunk/html5.js\"></script>\n	<![endif]-->\n	<script src=\"js/lib/jquery-1.7.2.min.js\"></script>\n	<!--qtip script-->\n	<script src=\"js/qtip/jquery.qtip.min.js\"></script>\n	<!-- Jquery UI -->\n	<script src=\"js/lib/jquery-ui.min.js\"></script>\n	<script src=\"js/script.js\"></script>\n</head>\n	<body>\n	\n<header id=\"toolbar\">\n            <section id=\"logo\">\n				<img src=\"images/logo.png\" alt=\"wireframe 3000\">\n                <h2> Wireframe 3000&trade; </h2>\n			</section>\n			<nav>\n				<ul id=\"css3menu1\" class=\"topmenu\" style=\"width: 300px\">\n					<li class=\"topfirst\"><a href=\"#\" style=\"height:10px;line-height:10px;\"><span>File</span></a>\n					<ul>\n						<li><a href=\"#\"><i class=\"icon-bolt\" style=\"padding-right:5px\"></i>Render Page <span style=\"padding-left: 30px; display:inline\">ctrl-r</span></a></li>\n						<li><a href=\"#\"><i class=\"icon-signout\" style=\"padding-right:5px\"></i>Export Image <span style=\"padding-left: 23px; display:inline\">ctrl-e</span></a></li>\n					</ul></li>\n					<li class=\"topmenu\"><a href=\"#\" style=\"height:10px;line-height:10px;\"><span>Edit</span></a>\n					<ul>\n                        <li><a href=\"#\"><i class=\"icon-copy\" style=\"padding-right:5px;\"></i>Copy <span style=\"padding-left: 20px; display:inline-block;\">ctrl-c</span></a></li>\n						<li><a href=\"#\"><i class=\"icon-cut\" style=\"padding-right:5px\"></i>Cut <span style=\"padding-left: 30px; display:inline;\">ctrl-x</span></a></li>\n						<li><a href=\"#\"><i class=\"icon-paste\" style=\"padding-right:5px\"></i>Paste <span style=\"padding-left: 18px; display:inline;\">ctrl-v</span></a></li>\n					</ul></li>\n					<li class=\"toplast\"><a href=\"#\" style=\"height:10px;line-height:10px;\"><span>View</span></a>\n					<ul>\n						<li><a href=\"#\"><i class=\"icon-info-sign\" style=\"padding-right:5px\"></i>Toggle Attributes Window <span style=\"padding-left: 10px; display:inline;\">ctrl-a</span></a></li>\n						<li><a href=\"#\"><i class=\"icon-th\" style=\"padding-right:5px\"></i>Toggle Grid <span style=\"padding-left: 105px; display:inline;\">ctrl-g</span></a></li>\n						<li><a href=\"#\"><i class=\"icon-print\" style=\"padding-right:5px\"></i>Print View <span style=\"padding-left: 115px; display:inline;\">ctrl-p</span></a></li>\n					</ul></li>\n				</ul>\n			</nav>\n		</header>	\n		<section id=\"frame\">\n				<header>&nbsp;</header>\n				<section id=\"canvas\">\n					<section id=\"pad\"></section>\n				</section>\n				<footer>&nbsp;</footer>\n		</section>\n\n		<!--PALETTE STARTS HERE -->\n\n		<section id=\"palette\">\n			<header><i class=\"icon-remove-circle icon-large\"></i>Attributes</header>\n			<form id=\"whxy\">\n				<div id=\"palletContainer\" style=\"text-align:center; display:table-cell; padding-left: 30px;\">\n					<fieldset data-category=\"coord\">\n						<div class=\"paletteTop\">\n							<label id=\"widthLabel\">w:</label> <input id=\"width\" type=\"number\" name=\"width\" min=\"0\" max=\"9999\"/>\n							<label id=\"xLabel\">x:</label> <input id=\"x\" type=\"number\" name=\"x\" min=\"0\" max=\"9999\"/>\n						</div>\n						<div class=\"paletteBottom\">\n							<label id=\"heightLabel\">h:</label> <input id=\"height\" type=\"number\" name=\"height\" min=\"0\" max=\"9999\"/>\n							<label id=\"yLabel\">y:</label> <input id=\"y\" type=\"number\" name=\"y\" min=\"0\" max=\"9999\"/>\n						</div>\n					</fieldset>\n					<fieldset data-category=\"text\">\n						<div class=\"paletteTop\">\n							<i class=\"icon-bold icon-large\"></i>\n							<i class=\"icon-italic icon-large\"></i>\n							<i class=\"icon-underline icon-large\"></i>\n							<i class=\"icon-strikethrough icon-large\"></i>\n							<div><span>style</span><i class=\"icon-caret-down\"></i></div>						\n						</div>\n						<div class=\"paletteBottom\">\n\n						</div>\n					</fieldset>\n					<fieldset data-category=\"action\">\n						<div class=\"paletteTop\">\n							<i class=\"icon-undo icon-large\"></i>\n							<i class=\"icon-repeat icon-large\"></i>\n							<i class=\"icon-lock icon-large\"></i>\n							<i class=\"icon-group icon-large\"></i>	\n							<i class=\"icon-remove icon-large\"></i>				\n						</div>\n						<div class=\"paletteBottom\">\n\n						</div>\n					</fieldset>\n                </div>\n			</form>\n			<footer>\n				<span>Options:</span>\n				<ul>\n					<li class=\"pointer selected\" data-category=\"coord\">Coordinates</li>\n					<li class=\"pointer\" data-category=\"text\">Font</li>\n					<li class=\"pointer\" data-category=\"action\">Action</li>\n				</ul>\n			</footer>\n		</section>\n		         \n		<!--LIBRARY STARTS HERE -->\n		\n		<section id=\"library\">\n			<header>\n				<div id=\"searchBox\">\n				<form name=\"searchForm\">\n					<div>\n						<i class=\"icon-search icon-large icon-height\"></i>\n						<input id=\"search\" size=\"20\" maxlength=\"30\">\n						<ol id=\"searchResults\"></ol>\n					</div>\n				</form>\n				</div>\n			</header>\n			<section id=\"tabs\">\n				<nav>\n					<ul>\n						<li class=\"pointer selected\" data-category=\"all\">All</li>\n						<li class=\"pointer\" data-category=\"device\">Device</li>\n						<li class=\"pointer\" data-category=\"button\">Button</li>\n						<li class=\"pointer\" data-category=\"text\">Text</li>\n						<li class=\"pointer\" data-category=\"menu\">Menu</li>\n						<li class=\"pointer\" data-category=\"forms\">Forms</li>\n						<li class=\"pointer\" data-category=\"layout\">Layout</li>\n						<li class=\"pointer\" data-category=\"recently\">Recently Used</li>\n					</ul>\n				</nav>\n			</section>\n			<section id=\"elements\">\n				<div id=\"elementContainer\">\n					<div class=\"element1\">\n						<div class=\"draggable inlib uitop\" data-default-width=\"108\" data-default-height=\"20\" data-category=\"all button\" data-keywords=\"button\">\n                        	<div class=\"sbtn\">\n                        		<div class=\"editable sbtntext\">Button Text</div>\n                            </div> \n                            <div class=\"title\">Button</div>\n                        </div>	\n					</div>\n					<div class=\"element1\">\n						<div class=\"draggable inlib uibot\" data-default-width=\"760\" data-default-height=\"350\" data-category=\"all device\" data-keywords=\"browser chrome firefox internet explorer opera safari\">\n                            	<div class=\"libBrowserOuterFrame\">\n                                    <div class=\"libBrowserHeader\">\n                                    	<i class=\"icon-caret-left\"></i>\n                                        <i class=\"icon-caret-right\"></i>\n                                        <i class=\"icon-home\"></i>\n                                        <div class=\"libBrowserUrlBox\">\n                                        	<div class=\"editable\">http://mysite.com</div>\n                                        </div>\n                                    </div>\n                                    <div class=\"libBrowserContent\"></div>\n                                    <div class=\"libBrowserFooter\"></div>\n                                </div>\n                            <div class=\"title\">Browser</div>\n                        </div>\n					</div>\n					<div class=\"element1\">\n						<div class=\"draggable inlib uimid\" data-default-width=\"150\" data-default-height=\"150\" data-category=\"all image\" data-keywords=\"image picture graphic gif jpg png\">\n                                <div class=\"libImage\">\n                                    <img src=\"images/placeholder.gif\" style=\" width : 70; height : 70px\" alt=\"image file\" />\n                                </div>\n								<div class=\"title\">Image</div>\n                       </div>    \n					</div>\n					<div class=\"element1\">\n						<div class=\"draggable inlib uitop\" data-default-width=\"200\" data-default-height=\"150\" data-category=\"all text\" data-keywords=\"Textbox area paragraph dummy\">\n                            <div class=\"libDummyContainer\">\n                                <div class=\"libDummyText\">\n                                    <div class=\"editable\">\"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"</div>\n                           		</div>    \n                           </div>\n                           <div class=\"title\">Text Box</div>\n                        </div>\n					</div>\n					<div class=\"element1\">\n						<div class=\"draggable inlib uimid\" data-default-width=\"350\" data-default-height=\"30\" data-category=\"all text\" data-keywords=\"Buttonbar box\">\n                        	<div class=\"libButtonBarBox\">\n                            	<div class=\"libButtonBarItemFirst\">\n                            		<div class=\"editable\">\n                                		Item1\n                            		</div>\n                                </div>\n                                <div class=\"libButtonBarItemMiddle\">\n                            		<div class=\"editable\">\n                                		Item2\n                            		</div>\n                                </div>\n                                <div class=\"libButtonBarItemMiddle\">\n                            		<div class=\"editable\">\n                                		Item3\n                            		</div>\n                                </div>\n                                <div class=\"libButtonBarItemLast\">\n                            		<div class=\"editable\">\n                                		Item4\n                            		</div>\n                                </div>\n                            </div>\n							<div class=\"title\">Button bar</div>\n                         </div>\n					</div>\n					<div class=\"element1\">\n						<div class=\"draggable inlib uimid\" data-default-width=\"200\" data-default-height=\"30\" data-category=\"all layout\" data-keywords=\"searchbox\">\n                        	<div class=\"libSearchBox\">\n                            	<i class=\"icon-search icon-large icon-height\"></i>\n                                <div class=\"libSearchField\"></div>\n                            </div>\n                        	<div class=\"title\">Search</div>\n                        </div>\n					</div>\n					<div class=\"element1\">\n						<div class=\"draggable inlib uitop\" data-category=\"all text\" data-keywords=\"section header text\">\n                            <div class=\"libHeaderBox\">\n                                <h1 class=\"libHeader editable\">Section Title</h1>\n                            </div>\n							<div class=\"title\">Section title</div>\n                        </div>\n					</div>\n					<div class=\"element1\">\n						<div class=\"draggable inlib uitop\" data-default-width=\"130\" data-default-height=\"20\" data-category=\"all button\" data-keywords=\"checkbox toggle\">\n                        	<div class=\"libCheckBox\">\n                                <div id=\"libCheckField\">\n									<input type=\"checkbox\">\n									<div class=\"editable\" style=\"display: inline;\">Checkbox</div>\n                                </div>\n                            </div>\n                        	<div class=\"title\">Checkbox</div>\n                        </div>\n					</div>	\n					<div class=\"element1\">\n						<div class=\"draggable inlib uitop\" data-default-width=\"200\" data-default-height=\"60\" data-category=\"all button\" data-keywords=\"radio button toggle\">\n                        	<div class=\"libRadioBox\">\n                                <div id=\"libRadioField\">\n									<div><input name=\"radio1\" type=\"radio\" value='checked'><div class=\"editable\" style=\"display: inline;\">Option 1</div></div>\n									<div><input name=\"radio1\" type=\"radio\"><div class=\"editable\" style=\"display: inline;\">Option 2</div></div>\n									<div><input name=\"radio1\" type=\"radio\"><div class=\"editable\" style=\"display: inline;\">Option 3</div></div>\n								</div>\n                            </div>\n                        	<div class=\"title\">Radio button</div>\n                        </div>\n					</div>							\n					<div class=\"element1\">\n						<div class=\"draggable inlib uitop\" data-default-width=\"200\" data-default-height=\"30\" data-category=\"all button\" data-keywords=\"combobox combo box list\">\n                        	<div class=\"libComboBox\">\n                                <div id=\"libComboField\">\n									<div class=\"editable\">ComboBox</div>\n									<div><i class=\"icon-caret-down\"></i></div>\n								</div>\n                            </div>\n                        	<div class=\"title\">Combobox</div>\n                        </div>\n					</div>	\n					<!-- layout -->\n					<div class=\"element1\">\n						<div class=\"draggable inlib uimid\" data-default-width=\"200\" data-default-height=\"150\" data-category=\"all layout\" data-keywords=\"accordion list items item\">\n                        	<div class=\"libAccordin\">\n								<div class=\"editable\">Item One</div>\n								<div class=\"expand\"></div>\n								<div class=\"editable\">Item Two</div>\n								<div class=\"editable\">Item Three</div>\n                            </div>\n                        	<div class=\"title\">Accordin</div>\n                        </div>\n					</div>\n					<div class=\"element1\">\n						<div class=\"draggable inlib uimid\" data-default-width=\"200\" data-default-height=\"30\" data-category=\"all layout\" data-keywords=\"tab tabs tabbar bar horizontal\">\n                        	<div class=\"libTabbar\">\n								<ul>\n									<li><div class=\"editable\" style=\"display: inline; border: none;\">Tab 1</div></li>\n									<li><div class=\"editable\" style=\"display: inline; border: none;\">Tab 2</div></li>\n									<li><div class=\"editable\" style=\"display: inline; border: none;\">Tab 3</div></li>\n								</ul>\n								<div class=\"editable\">Item One</div>\n                            </div>\n                        	<div class=\"title\">Tab Bar</div>\n                        </div>\n					</div>	\n					<div class=\"element1\">\n						<div class=\"draggable inlib uitop\" data-default-width=\"200\" data-default-height=\"30\" data-category=\"all layout\" data-keywords=\"link links href\">\n                        	<div class=\"libLinkbar\">\n								<span class=\"link\"><div class=\"editable\" style=\"display: inline;\">Link 1</div></span> | <span class=\"link\"><div class=\"editable\" style=\"display: inline;\">Link 2</div></span> | <span class=\"link\"><div class=\"editable\" style=\"display: inline;\">Link 3</div></span>\n                            </div>\n                        	<div class=\"title\">Link Bar</div>\n                        </div>\n					</div>	\n					<div class=\"element1\">\n						<div class=\"draggable inlib uitop\" data-default-width=\"200\" data-default-height=\"30\" data-category=\"all layout\" data-keywords=\"tab tabs tabbar bar vertical\">\n                        	<div class=\"libVerticalTab\">\n								<div>\n									<ul>\n										<li><div class=\"editable\" style=\"display: inline; border: none;\">Tab 1</div></li>\n										<li><div class=\"editable\" style=\"display: inline; border: none;\">Tab 2</div></li>\n										<li><div class=\"editable\" style=\"display: inline; border: none;\">Tab 3</div></li>\n									</ul>\n								</div>\n								<div>\n									Item 1\n								</div>\n							</div>\n                        	<div class=\"title\">Vertical Tab</div>\n                        </div>\n					</div>	\n					<div class=\"element1\">\n						<div class=\"draggable inlib uitop\" data-default-width=\"200\" data-default-height=\"60\" data-category=\"all layout\" data-keywords=\"table\">\n                        	<div class=\"libTable\">\n								<table>\n									<tr>\n										<th> <div class=\"editable\">Name</div> </th>\n										<th> <div class=\"editable\">Age</div> </th>\n										<th> <div class=\"editable\">Occupation</div> </th>\n									</tr>\n									<tr>\n										<td> <div class=\"editable\">Dom Browski</div> </td>\n										<td> <div class=\"editable\">24</div> </td>\n										<td> <div class=\"editable\">Apple</div> </td>\n									</tr>\n									<tr>\n										<td> <div class=\"editable\">Bob Smith</div> </td>\n										<td> <div class=\"editable\">36</div> </td>\n										<td> <div class=\"editable\">Microsoft</div> </td>\n									</tr>\n									<tr>\n										<td> <div class=\"editable\">Shaily Tenessea</div> </td>\n										<td> <div class=\"editable\">15</div> </td>\n										<td> <div class=\"editable\">Student</div> </td>\n									</tr>\n								</table>\n							</div>\n                        	<div class=\"title\">Table</div>\n                        </div>\n					</div>\n					<!-- menu -->\n					<div class=\"element1\">\n						<div class=\"draggable inlib uitop\" data-default-width=\"500\" data-default-height=\"30\" data-category=\"all menu\" data-keywords=\"format options text bar\">\n                        	<div class=\"libFormatBar\">\n								<div>\n									<i class=\"icon-bold\"></i>\n									<i class=\"icon-italic\"></i>\n									<i class=\"icon-underline\"></i>\n									<i class=\"icon-strikethrough\"></i>\n									<div>style<i class=\"icon-caret-down\"></i></div>\n									<i class=\"icon-list-ul\"></i>\n									<i class=\"icon-list-ol\"></i>\n									<i class=\"icon-undo\"></i>\n									<i class=\"icon-repeat\"></i>\n								</div>\n							</div>\n                        	<div class=\"title\">Format bar</div>\n                        </div>\n					</div>		\n					<div class=\"element1\">\n						<div class=\"draggable inlib uitop\" data-default-width=\"500\" data-default-height=\"30\" data-category=\"all menu\" data-keywords=\"menu nav navigation navbar\">\n                        	<div class=\"libMenu\">\n								<div>\n									<div></div><div class=\"editable\">Open</div><div></div>\n									<div></div><div class=\"editable\">Open</div><div></div>\n									<div></div><div class=\"editable\">Open</div><div></div>\n									<div></div><div class=\"editable\">Open</div><div></div>\n								</div>\n							</div>\n                        	<div class=\"title\">Menu</div>\n                        </div>\n					</div>\n                    <!-- Forms Section -->\n                    <div class=\"element1\">\n						<div class=\"draggable inlib uitop\" data-default-width=\"100\" data-default-height=\"30\" data-category=\"all forms\" data-keywords=\"text box textarea\">\n                        	<div class=\"libTextBox\">\n								<div class=\"libTextBoxContainer\">\n                                	<div class=\"editable\">Text Box</div>\n                                </div>\n                                \n							</div>\n                        	<div class=\"title\">Text Box</div>\n                        </div>\n					</div>									\n                   <div class=\"element1\">\n						<div class=\"draggable inlib uitop\" data-default-width=\"100\" data-default-height=\"30\" data-category=\"all forms\" data-keywords=\"date picker\">\n                        	<div class=\"libDatePickerBox\">\n								<div class=\"libDatePickerContainer\">\n                                	12/1/2012\n                                </div>\n                                <i class=\"icon-calendar\" style=\"padding-left:5px\"></i>\n                                \n							</div>\n                        	<div class=\"title\">Date Picker</div>\n                        </div>\n					</div>				 \n                 	<div class=\"element1\">\n						<div class=\"draggable inlib uitop\" data-default-width=\"150\" data-default-height=\"100\" data-category=\"all forms\" data-keywords=\"list items container\">\n                        	<div class=\"libList\">\n								<div class=\"libListContainer\">\n                                	<div class=\"editable\">Item One</div> <br />\n                                    <div class=\"editable\">Item Two</div> <br />\n                                    <div class=\"editable\">Item Three</div> <br />\n \n                                </div>\n							</div>\n                        	<div class=\"title\">List</div>\n                        </div>\n					</div>				 \n                	<div class=\"element1\">\n						<div class=\"draggable inlib uitop\" data-default-width=\"150\" data-default-height=\"100\" data-category=\"all forms\" data-keywords=\"stepper num number\">\n                        	<div class=\"libNumStepper\" style=\"text-align:center\">\n								<div class=\"libNumStepperContainer\">\n                                	3<i class=\"icon-sort\" style=\"padding-left:5px\"></i>\n                                </div>\n							</div>\n                        	<div class=\"title\">Date Stepper</div>\n                        </div>\n					</div>																													\n				</div>\n			</section>	\n		</section>\n	</body>\n</html>",
+			"link",
+			".editable",
+			"sbtntext",
+			"'",
+			"sbtntext",
+			"z-index",
+			"index",
+			"search",
+			"prepEle",
+			"prepUIElement",
+			"prep",
+			"pref",
+			"setRecentFlag",
+			"draggable",
+			"element1",
+			"setRecentFlag",
+			"updatePallet",
+			"updateSize",
+			"draggable",
+			"libButtonBarBox",
+			"defaultSize",
+			"currentElement",
+			"libButtonBarBox",
+			"prep",
+			"title",
+			"populateSearch",
+			"searchResults"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"changeCurrentElement",
+			"prepEle",
+			"prepUIElement",
+			"currentElement",
+			"normalContainer",
+			"newEle",
+			"inlib",
+			"element1",
+			"inlib",
+			"class=\"draggable re",
+			"element1",
+			"",
+			"uimid resize",
+			"uitop resize",
+			"uibot resize",
+			"resize",
+			"resizable",
+			"div.",
+			"\\1\\2;\\n\\1",
+			"\\t\\1\\2\\n\\1}\\n\\1",
+			"\\n};",
+			"\\1\\2 {\\n\\t\\1\\3",
+			"\\1\\2 {\\n\\t\\1",
+			"\\1\\2 {\\t\\1",
+			"\\1\\2 {\\t\\1\\3",
+			";\\n",
+			"\\n}\\n",
+			" {\\n\\t",
+			"\\n}\\n",
+			" {\\n\\t",
+			";\\n",
+			" ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sty",
+				"css/style.css"
+			],
+			[
+				"scrip",
+				"js/script.js"
+			],
+			[
+				"ui",
+				"js/lib/jquery-ui.min.js"
+			],
+			[
+				"scr",
+				"js/script.js"
+			],
+			[
+				"css",
+				"css/style.css"
+			],
+			[
+				"sc",
+				"js/script.js"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"min",
+				"js/qtip/jquery.qtip.min.js"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"app.css",
+				"stylesheets/app.css"
+			],
+			[
+				"app",
+				"javascripts/app.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
